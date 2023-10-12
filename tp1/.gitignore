@@ -1,0 +1,5 @@
+datasets/cifar-10-batches-py
+.idea/
+*checkpoint.ipynb
+*checkpoint.py
+*checkpoint.sh

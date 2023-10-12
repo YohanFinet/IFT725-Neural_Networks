@@ -1,0 +1,8 @@
+/prog/data*
+*UNet_acc_valid_79.pt
+/venv
+/prog/src/manage*
+/prog/src/model*
+*__pycache__*
+/prog/src/backup*
+*.idea*
